@@ -83,6 +83,13 @@
 			<url>https://repository.mulesoft.org/releases/</url>
 			<layout>default</layout>
 		</repository>
+		<repository>
+			<id>Exchange2</id>
+			<name>Exchange2 Repository</name>
+			<url>https://maven.anypoint.mulesoft.com/api/v2/organizations/fd388f5e-bbeb-459c-9ec2-6a85c5512d20/maven
+		   </url>
+			<layout>default</layout>
+		</repository>
 	</repositories>
 
 	<pluginRepositories>
