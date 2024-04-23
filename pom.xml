@@ -72,8 +72,7 @@
 			<groupId>fd388f5e-bbeb-459c-9ec2-6a85c5512d20</groupId>
 			<artifactId>Helloworld</artifactId>
 			<version>1.0.0</version>
-			<classifier>raml</classifier>
-			<type>zip</type>
+			
 		</dependency>
 		
 	</dependencies>
