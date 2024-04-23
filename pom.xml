@@ -41,7 +41,7 @@
       <provider>MC</provider>
       <environment>sandbox</environment>
       <target>helloworld</target>
-      
+      <muleVersion>4.6.2</muleVersion>
       <username>aabilash3</username>
       <password>Aa07306010</password>
       <applicationName>Helloworld3</applicationName>
