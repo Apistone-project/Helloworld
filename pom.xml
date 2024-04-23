@@ -70,7 +70,7 @@
 		</dependency>
 		<dependency>
 			<groupId>fd388f5e-bbeb-459c-9ec2-6a85c5512d20</groupId>
-			<artifactId>Helloworld</artifactId>
+			<artifactId>helloworld</artifactId>
 			<version>1.0.0</version>
 			
 		</dependency>
