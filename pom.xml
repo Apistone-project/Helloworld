@@ -40,11 +40,11 @@
       <uri>https://anypoint.mulesoft.com</uri>
       <provider>MC</provider>
       <environment>Sandbox</environment>
-      <target>helloworld</target>
+      <target>Cloudhub-US-East-1</target>
       <muleVersion>4.6.2</muleVersion>
       <username>aabilash3</username>
       <password>Aa07306010</password>
-      <applicationName>Helloworld3</applicationName>
+      <applicationName>Helloworld</applicationName>
       <replicas>1</replicas>
       <vCores>1</vCores>
       </cloudhub2Deployment>
