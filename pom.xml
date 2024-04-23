@@ -96,7 +96,7 @@
 
 	<pluginRepositories>
 		<pluginRepository>
-			<id>mulesoft-releases</id>
+			<id>anypoint-exchange-v3</id>
 			<name>MuleSoft Releases Repository</name>
 			<layout>default</layout>
 			<url>https://repository.mulesoft.org/releases/</url>
