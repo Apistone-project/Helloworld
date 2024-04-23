@@ -2,7 +2,7 @@ pipeline {
     agent any
     stages {
         stage ('Building') {
-            steps {
+            steps { 
                 bat 'mvn clean deploy -DmuleDeploy' 
             }            
         }
