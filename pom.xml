@@ -68,6 +68,14 @@
 			<version>1.2.3</version>
 			<classifier>mule-plugin</classifier>
 		</dependency>
+		<dependency>
+			<groupId>fd388f5e-bbeb-459c-9ec2-6a85c5512d20</groupId>
+			<artifactId>ntt-rapidapi-yahoofin-system-apispec</artifactId>
+			<version>1.0.0</version>
+			<classifier>raml</classifier>
+			<type>zip</type>
+		</dependency>
+		
 	</dependencies>
 
 	<repositories>
