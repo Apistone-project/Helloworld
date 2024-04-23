@@ -41,7 +41,7 @@
       <provider>MC</provider>
       <environment>Sandbox</environment>
       <target>Cloudhub-US-East-2</target>
-      <muleVersion>4.6.2</muleVersion>
+      <muleVersion>4.5.2</muleVersion>
       <username>aabilash3</username>
       <password>Aa07306010</password>
       <applicationName>Helloworld</applicationName>
