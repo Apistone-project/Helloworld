@@ -39,7 +39,7 @@
     <cloudhub2Deployment>
       <uri>https://anypoint.mulesoft.com</uri>
       <provider>MC</provider>
-      <environment>sandbox</environment>
+      <environment>Sandbox</environment>
       <target>helloworld</target>
       <muleVersion>4.6.2</muleVersion>
       <username>aabilash3</username>
